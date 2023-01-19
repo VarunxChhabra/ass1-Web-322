@@ -6,9 +6,9 @@
 * 
 *  Name: Varun Chhabra Student ID: 170279210 Date: 18 Jan 2023
 *
-*  Cyclic Web App URL: ______________________________________________________
+*  Cyclic Web App URL: https://fine-blue-sparrow-tam.cyclic.app/
 *
-*  GitHub Repository URL: _____________________________________________________
+*  GitHub Repository URL: https://github.com/VarunxChhabra/ass1-Web-322
 *
 ********************************************************************************/ 
 
